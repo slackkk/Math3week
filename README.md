@@ -34,8 +34,6 @@
 
 ## Линейная алгебра
 
-
-
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
@@ -100,5 +98,9 @@ for k in ks:
     print(f"k = {k:3d} | Сжатие: {ratio:6.2f}x | Ошибка Фробениуса: {error:10.2f}")
 ```
 
+<img width="1080" height="720" alt="Рисунок1" src="https://github.com/user-attachments/assets/fb096d4e-2287-4f5c-9cc2-41f3bf504708" />
+
+<img width="805" height="826" alt="photo_2_2026-09-25_01-46-04" src="https://github.com/user-attachments/assets/263b2021-d0ed-40b1-b2e1-2d57f8156926" />
+<img width="862" height="725" alt="photo_1_2026-09-25_01-46-04" src="https://github.com/user-attachments/assets/2c80ec04-7637-4fa3-99d1-d6d5ea1c7ef6" />
 
 
