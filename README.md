@@ -18,3 +18,12 @@
 
 ## Множества
 
+<img width="1807" height="2560" alt="photo_2_2026-09-25_01-24-02" src="https://github.com/user-attachments/assets/e58a00c5-4ab1-4b5d-a9ab-bd6d68c3d9e3" />
+
+**Задача:** логика аварийной блокировки робота.
+
+## Умножение на число
+
+<img width="2319" height="1162" alt="photo_3_2026-09-25_01-24-02" src="https://github.com/user-attachments/assets/23abd05f-6145-4a92-bf82-7f876052e193" />
+
+## Производная
